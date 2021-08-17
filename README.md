@@ -14,3 +14,7 @@ API-Team(이은지): IP를 할당하고 관리하는 기능을 개발한다. Ope
 Controller-Team(최성현, 홍윤기): AIM 프로젝트를 CRD 형식으로 만들어 컨테이너 형식으로 쉽게 배포하고 관리할 수 있게 개발한다. Controller를 Docker와 Kubernetes에 대한 이해가 필요하다.  
 Web-Team(최락영): 프로젝트를 사용할 수 있게 하는 웹페이지를 제작한다. User experience를 극대화 시키는 UX를 설계하며 UI/UX 디자인과 브랜딩 계획을 개발한다.  
 회의기록: https://www.notion.so/cb20da5f33194584bb400ab375fdfb93
+
+## 실행영상
+https://user-images.githubusercontent.com/55870568/129667685-66e4aeb8-cb4e-4368-90ca-4a5924457458.mp4
+
