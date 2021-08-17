@@ -15,6 +15,5 @@ Controller-Team(최성현, 홍윤기): AIM 프로젝트를 CRD 형식으로 만�
 Web-Team(최락영): 프로젝트를 사용할 수 있게 하는 웹페이지를 제작한다. User experience를 극대화 시키는 UX를 설계하며 UI/UX 디자인과 브랜딩 계획을 개발한다.  
 회의기록: https://www.notion.so/cb20da5f33194584bb400ab375fdfb93
 
-## 실행영상
-https://user-images.githubusercontent.com/55870568/129667685-66e4aeb8-cb4e-4368-90ca-4a5924457458.mp4
-
+## Demo Vidio
+https://user-images.githubusercontent.com/55870568/129668745-0c78d798-84ba-458c-9797-b84d2c7570f0.mp4
